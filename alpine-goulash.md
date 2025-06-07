@@ -45,6 +45,10 @@
 * Fresh **chives**, finely chopped — for garnish
 * 50–100 g bacon, finely diced
 
+### ⚠️ Note
+
+Depending on the moisture of the potatoes, **you may need significantly more flour** than the base amount listed. Add more gradually until the dough is firm enough to shape but still soft and tender.
+
 ### Instructions
 
 1. Boil the potatoes in their skins until fork-tender. Let cool slightly, peel, and mash or rice them.
