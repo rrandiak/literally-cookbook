@@ -43,16 +43,18 @@
 * 1/2 tsp salt
 * Pinch of nutmeg *(optional)*
 * Fresh **chives**, finely chopped — for garnish
+* 50–100 g bacon, finely diced
 
 ### Instructions
 
-1. Boil potatoes in their skins until tender. Let cool slightly, peel, and mash or rice them.
-2. Let the mashed potatoes cool completely.
-3. Add the beaten egg, salt, nutmeg (if using), and starch/flour.
-4. Mix gently into a dough — soft, but not sticky. Add a little more flour if needed.
-5. With wet hands, form into 6–8 round dumplings.
-6. Simmer gently in salted water (do **not** boil hard) for 15–20 minutes. They will float when done.
-7. Remove with a slotted spoon and garnish with **chopped chives (pažitka)** before serving.
+1. Boil the potatoes in their skins until fork-tender. Let cool slightly, peel, and mash or rice them.
+2. While the potatoes are cooking, fry the diced bacon in a dry pan over medium heat until just golden and lightly crisp. Set aside to cool.
+3. Let the mashed potatoes cool completely before mixing.
+4. Add the beaten egg, salt, nutmeg (if using), starch/flour, and cooled bacon.
+5. Mix gently into a soft dough — not sticky. Add a little more flour if needed.
+6. With wet hands, form into 6–8 round dumplings.
+7. Simmer gently in salted water (do **not** boil hard) for 15–20 minutes. They will float when done.
+8. Remove with a slotted spoon and garnish with chopped chives before serving.
 
 ---
 
