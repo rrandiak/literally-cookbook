@@ -61,3 +61,9 @@
 ### 🍽 Serving Suggestion
 
 Plate the dumplings and ladle the goulash over them. Sprinkle fresh chives generously on the dumplings. Best enjoyed with a cold beer or a glass of light red wine.
+
+---
+
+### 💡 Tips
+
+- You can use 1–2 tablespoons of mashed potatoes to help **thicken the goulash** during the final 10 minutes of cooking.
