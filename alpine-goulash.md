@@ -1,8 +1,8 @@
 # 🏔️ Alpine Goulash with Potato Dumplings (Kartoffelknödel)
 
-## 🍖 For the Goulash
+## For the Goulash
 
-### Ingredients
+### 📋 Ingredients
 
 * 2 tbsp lard or vegetable oil
 * 2 large onions, finely diced
@@ -19,7 +19,7 @@
 * Salt and pepper to taste
 * Splash of vinegar or lemon juice to finish *(optional)*
 
-### Instructions
+### 🍴 Instructions
 
 1. Heat lard or oil in a large heavy pot over medium heat.
 2. Sauté onions until golden and soft (about 10–15 minutes).
@@ -33,9 +33,9 @@
 
 ---
 
-## 🥔 Potato Dumplings (Kartoffelknödel)
+## Potato Dumplings (Kartoffelknödel)
 
-### 🧂 Ingredients
+### 📋 Ingredients
 
 * 1 kg starchy potatoes (e.g., Russet)
 * 1 egg, beaten
@@ -49,7 +49,7 @@
 
 Depending on the moisture of the potatoes, **you may need significantly more flour** than the base amount listed. Add more gradually until the dough is firm enough to shape but still soft and tender.
 
-### Instructions
+### 🍴 Instructions
 
 1. Boil the potatoes in their skins until fork-tender. Let cool slightly, peel, and mash or rice them.
 2. While the potatoes are cooking, fry the diced bacon in a dry pan over medium heat until just golden and lightly crisp. Set aside to cool.
