@@ -1,17 +1,23 @@
-# Salsa
+---
+serves: 4
+prep: 10 min
+cook: 15 min
+tags: [Mexican, vegetarian, sauce]
+---
 
-## Salsa Verde with Red Tomatoes
+# Salsa Verde
+
+## Salsa Verde
 
 ### 📋 Ingredients
 
-**Makes about 1–2 cups:**
-
-* 3–4 medium or 2 large red tomatoes
-* 1 medium onion, quartered
-* 2–3 garlic cloves, unpeeled
-* 1–2 jalapeños *(adjust to taste)*
+* 6 red tomatoes
+* 2 medium yellow onion, quartered
+* 5 garlic cloves, unpeeled
+* 10 jalapeños *(adjust to taste)* (remove caps)
 * A handful of fresh cilantro
 * Salt, to taste
+* limes
 
 ---
 
@@ -21,6 +27,7 @@
 
    * Option 1 – **Boiling:** Place tomatoes, onion, garlic, and jalapeños in a pot of boiling water. Cook until softened and skins begin to loosen.
    * Option 2 – **Pan-Roasting:** Heat a dry skillet or pan. Add the vegetables and cook, turning occasionally, until blackened/charred in spots and softened.
+   * Option 3 – **Oven:** Roast at 200 °C until softened and lightly blistered, about 20–25 minutes.
 
 2. **Peel & Prep:**
 

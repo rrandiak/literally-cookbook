@@ -1,3 +1,10 @@
+---
+serves: 8
+prep: 20 min
+cook: 45 min
+tags: [Czech, dessert, baking]
+---
+
 # Cocoa Marble Bábovka
 
 ## Cake

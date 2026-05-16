@@ -1,3 +1,10 @@
+---
+serves: 1
+prep: 5 min
+cook: 10 min
+tags: [breakfast, quick]
+---
+
 # Breakfast Egg Wrap with Ham, Greens & Cherry Tomatoes
 
 ## Wrap
@@ -11,8 +18,8 @@
 * Salt & pepper, to taste
 * 1 tsp butter or olive oil
 * 1 tortilla (medium/large), warmed
-* 2–3 slices hamchopped or torn
-* A handful of cherry tomatoeshalved
+* 2–3 slices ham, chopped or torn
+* A handful of cherry tomatoes, halved
 * A handful of fresh spinachor rucola
 * Some flavorful sauce
 

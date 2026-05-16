@@ -1,3 +1,10 @@
+---
+serves: 1
+prep: 10 min
+cook: 10 min
+tags: [Mexican, vegetarian, meat, quick]
+---
+
 # Quesadillas with 3 Filling Variations
 
 ## Quesadillas

@@ -1,4 +1,13 @@
+---
+serves: 8
+prep: 25 min
+cook: 55 min
+tags: [Czech, dessert, baking]
+---
+
 # Curd Cheese Babovka (Bábovka s tvarohom)
+
+## Cake
 
 ### 📋 Ingredients
 
